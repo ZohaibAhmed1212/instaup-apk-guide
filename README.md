@@ -1,2 +1,6 @@
-# instaup-apk-guide
-Complete InstaUp APK guide, features, installation steps and updates.
+# InstaUp APK Download Guide
+
+InstaUp APK provides Android app information, features, and installation guides.
+
+Official Website:
+https://instaupapkdownloads.com/
